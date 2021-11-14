@@ -1,4 +1,4 @@
-#Presentacion de mi primer proyecto final del primer trimestre.
+Presentacion de mi primer proyecto final del primer trimestre.
 En este proyecto he creado una pequeña base de datos de la NASA con 3 colecciones:
 Estrella: 1 registro
 Cuerpos: 10 registros
